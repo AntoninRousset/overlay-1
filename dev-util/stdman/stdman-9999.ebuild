@@ -3,7 +3,7 @@
 
 EAPI=5
 
-inherit git-2
+inherit git-3
 
 DESCRIPTION='Formatted C++11/14 stdlib man pages (cppreference)'
 HOMEPAGE='https://github.com/jeaye/stdman'
